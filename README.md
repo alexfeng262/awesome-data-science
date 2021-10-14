@@ -19,3 +19,13 @@ A list of Python libraries for data science
 ## Optimization problems
 
 * [PuLP](https://coin-or.github.io/pulp/): PuLP is an linear programming modeler written in Python. 
+
+## Time series
+
+* [Kats](https://engineering.fb.com/2021/06/21/open-source/kats/): Kats is a lightweight, easy-to-use, and generalizable framework for generic time series analysis, including forecasting, anomaly detection, multivariate analysis, and feature extraction/embedding. 
+
+## Modeling ML
+
+* [PyCaret](https://pycaret.org/): PyCaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment.
+
+## Feature engineering
